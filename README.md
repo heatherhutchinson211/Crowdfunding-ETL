@@ -7,4 +7,4 @@ After performing analysis in the data sets, I was able to first create an additi
 ![Contacts Remaining Amount](https://github.com/heatherhutchinson211/Crowdfunding-ETL/blob/main/Screenshot%202023-01-18%20at%205.32.37%20PM.png)
 
 I was also able to create a table that showed each backer, and the amount remainign on each campaign they have pledged:
-![Backers Remaining Amount](
+![Backers Remaining Amount](https://github.com/heatherhutchinson211/Crowdfunding-ETL/blob/main/Screenshot%202023-01-18%20at%205.33.44%20PM.png)
