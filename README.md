@@ -1,7 +1,6 @@
 # Crowdfunding-ETL
 ## Overview
-The purpose of this project was to clean up "dirty" data sets from Independent Funding, in order to make more comprehensible tables to later perform analysis on.  The clean data was then used to create an ERD diagram in order to show relationships between the sets.  Then, these sets were used to create a database and table queries in PostgreSQL.  After the database was created, the data sets were loaded into the tables and analysis was done.  
-
+The objective of this project was to refine and enhance "unclean" data sets sourced from Independent Funding. The primary goal was to transform these datasets into coherent and intelligible tables, laying the groundwork for subsequent in-depth analyses. The refined data was then leveraged to construct an Entity-Relationship Diagram (ERD), elucidating the intricate interrelationships among the datasets. This conceptual foundation was further utilized to establish a robust PostgreSQL database, complete with meticulously crafted table queries. Following the successful creation of the database, the meticulously refined data sets were seamlessly integrated into their respective tables, paving the way for a comprehensive analytical exploration.
 ## Results
 After performing analysis in the data sets, I was able to first create an additional table showing each contact and their remaining goal amount as shown below:
 ![Contacts Remaining Amount](https://github.com/heatherhutchinson211/Crowdfunding-ETL/blob/main/Screenshot%202023-01-18%20at%205.32.37%20PM.png)
